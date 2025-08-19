@@ -1,4 +1,4 @@
-/*
+'''
 
 3467. Transform Array by Parity
 Solved
@@ -53,7 +53,7 @@ Accepted
 Acceptance Rate
 89.6%
 
-*/
+'''
 
 class Solution {
     public int[] transformArray(int[] nums) {
