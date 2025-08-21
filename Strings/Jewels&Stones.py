@@ -1,6 +1,6 @@
 '''
 
-771. Jewels and Stones
+771. JEWELS AND STONES
 Solved
 Easy
 Topics
