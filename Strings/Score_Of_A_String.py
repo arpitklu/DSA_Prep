@@ -1,6 +1,6 @@
 '''
 
-3110. Score of a String
+3110. SCORE OF A STRING
 Solved
 Easy
 Topics
