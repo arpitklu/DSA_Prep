@@ -22,3 +22,4 @@ public class Main{
         }
     }
 }
+//Print Prime Numbers in a Range.
