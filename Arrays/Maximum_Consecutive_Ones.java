@@ -44,3 +44,5 @@ class Solution {
         return max;
     }
 }
+
+//Max Consecutive Ones
