@@ -66,3 +66,4 @@ class Solution {
 
     }
 }
+//Find Element that appear once.
